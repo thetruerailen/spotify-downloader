@@ -1,2 +1,3 @@
 # spotify-downloader
-A music downloader that uses the Spotify API and YouTube
+
+I am not responsible for what Spotify Downloader is used for!
